@@ -1,0 +1,122 @@
+body{
+  background-color: rgb(0, 30, 60);
+}
+.header{
+  background-color: rgb(0, 40, 100);
+  height: auto;
+  width: 1000px;
+  box-shadow: 1px 1px 10px 15px black;
+  box-shadow: 3px 3px 13px 17px black;
+  box-shadow: 5px 5px 15px 19px black;
+  box-shadow: 7px 7px 17px 21px black;
+  margin-bottom: 100px;
+}
+.h1-2{
+  text-align: center;
+  font-size: 8em;
+  font-weight: 900;
+  color: white;
+  font-family: serif;
+  margin: 10px;
+  text-shadow: 10px 1px 8px black;
+  white-space: pre-wrap;
+  letter-spacing: 7px;
+}
+.div1{
+  background-color: rgb(0, 50, 110);
+  width: 1000px;
+  height: 600px;
+  box-shadow: 1px 1px 10px 15px black;
+  margin-top: 100px;
+}
+.h1-1{
+  text-align: center;
+  font-size: 5em;
+  font-weight: 900;
+  color: white;
+  font-family: serif;
+  margin: 10px;
+  text-shadow: 10px 1px 11px black;
+  white-space: pre-line;
+  word-spacing: 10px;
+  letter-spacing: 3px;
+}
+.div2{
+  background-color: rgb(0, 40, 100);
+  height: auto;
+  width: 1000px;
+  box-shadow: 1px 1px 10px 15px black;
+  box-shadow: 3px 3px 13px 17px black;
+  box-shadow: 5px 5px 15px 19px black;
+  box-shadow: 7px 7px 17px 21px black;
+  margin-top: 100px;
+}
+.h1-3{
+  text-align: center;
+  font-size: 5em;
+  font-weight: 900;
+  color: white;
+  font-family: serif;
+  margin: 10px;
+  text-shadow: 10px 1px 11px black;
+  white-space: pre-line;
+  word-spacing: 10px;
+  letter-spacing: 3px;
+}
+.div6{
+  background-color: rgb(0, 50, 110);
+  width: 1000px;
+  height: auto;
+  box-shadow: 1px 1px 10px 15px black;
+  margin-top: 100px;
+}
+.h1-4{
+  text-align: center;
+  font-size: 5em;
+  font-weight: 900;
+  color: white;
+  font-family: serif;
+  margin: 10px;
+  text-shadow: 10px 1px 11px black;
+  white-space: pre-line;
+  word-spacing: 10px;
+  letter-spacing: 3px;
+}
+.div7{
+  background-color: rgb(0, 50, 110);
+  width: 1000px;
+  height: auto;
+  box-shadow: 1px 1px 10px 15px black;
+  margin-top: 100px;
+}
+.h1-5{
+  text-align: center;
+  font-size: 5em;
+  font-weight: 900;
+  color: white;
+  font-family: serif;
+  margin: 10px;
+  text-shadow: 10px 1px 11px black;
+  white-space: pre-line;
+  word-spacing: 10px;
+  letter-spacing: 3px;
+}
+.div3{
+  background-color: rgb(0, 50, 110);
+  width: 1000px;
+  height: 600px;
+  box-shadow: 1px 1px 10px 15px black;
+  margin-top: 100px;
+}
+.h1-6{
+  text-align: center;
+  font-size: 5em;
+  font-weight: 900;
+  color: white;
+  font-family: serif;
+  margin: 10px;
+  text-shadow: 10px 1px 11px black;
+  white-space: pre-line;
+  word-spacing: 10px;
+  letter-spacing: 3px;
+}
