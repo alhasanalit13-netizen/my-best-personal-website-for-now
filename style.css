@@ -25,7 +25,7 @@ body{
 .div1{
   background-color: rgb(0, 50, 110);
   width: 1000px;
-  height: 600px;
+  height: 1300px;
   box-shadow: 1px 1px 10px 15px black;
   margin-top: 100px;
 }
@@ -104,7 +104,7 @@ body{
 .div3{
   background-color: rgb(0, 50, 110);
   width: 1000px;
-  height: 600px;
+  height: 1100px;
   box-shadow: 1px 1px 10px 15px black;
   margin-top: 100px;
 }
